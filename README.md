@@ -1,4 +1,4 @@
-# PIEAS Institute Management System
+# Institute Management System
 
 A role-based desktop application for managing an educational institute, built as a JavaFX semester project at PIEAS.
 
